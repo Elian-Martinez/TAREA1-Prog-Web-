@@ -1,0 +1,17 @@
+#titulo{
+	font-size: 30px;
+	text-shadow: 20px 0px 7px red;
+	text-align: center;
+	color: black;
+}
+#text{
+	box-shadow: 6px 20px 10px black;
+	background-color: #F6C9C0;
+	text-align: center;
+}
+#video{
+	text-align: center;
+}
+#futuro{
+	background-image: Captura.PNG;
+}
